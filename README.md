@@ -98,6 +98,9 @@ pip install -r requirements.txt
 
 # Run Jupyter notebook for model 3 (best model)
 jupyter notebook notebooks/AFM_Tip_Artifact_Reconstruction.ipynb
+
+# Published Paper on all Projects in this Hackathon including this one
+https://arxiv.org/abs/2506.08423
 ```
 
 ---

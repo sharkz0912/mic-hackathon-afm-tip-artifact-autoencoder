@@ -1,0 +1,5 @@
+pyro5
+scifireaders
+sidpy
+pynsid
+git+https://github.com/pycroscopy/DTMicroscope.git
